@@ -27,3 +27,5 @@ Examples:
 	
 	This will generate 10 background for a modern setting
 	ruby npcbgen.rb -p10 -m
+	
+===========================================================================
