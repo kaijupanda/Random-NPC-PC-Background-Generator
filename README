@@ -1,10 +1,13 @@
-<<<<<<< HEAD
 ===========================================================================
 Random NPC/PC Background Generator
 Cobbled together by Georgina Duy 2011
 ===========================================================================
 
-The purpose of this script is to generate various details to help flesh out PC/NPCs. This includes all those little tidbits of information such such as basic appearance, personality traits, family members, and a few past life experiences. Such data is generated based on setting/genre: Modern, Fantasy, Cyberpunk, Mixed.
+The purpose of this script is to generate various details to help flesh out
+PC/NPCs. This includes all those little tidbits of information such such as
+basic appearance, personality traits, family members, and a few past life
+experiences. Such data is generated based on setting/genre: Modern, Fantasy,
+Cyberpunk, Mixed.
 
 
 ===========================================================================
@@ -30,9 +33,3 @@ EXAMPLES:
 	ruby npcbgen.rb -p10 -m
 	
 ===========================================================================
-=======
-Random NPC/PC Background Generator
-Cobbled together by Georgina Duy 2011
-
-The purpose of this script is to generate various details to help flesh out PC/NPCs, things such as basic appearrance, personality traits, family members and views towards the character in addition to events of the past. 
->>>>>>> 22a7f0bc09259d3c96751f345960e5196c8f91e1
